@@ -2,7 +2,7 @@
 
 Resources to help you make scientific figures for your robotics papers.
 
-It mainly stores the assets used in a tutorial I prepared in 2023.
+It mainly stores the assets used in a tutorial I prepared in 2023, which is constantly being updated.
 
 > Matias Mattamala (2023), "Designing Graphics for Scientific Publications". [Online (Google Slides)](https://docs.google.com/presentation/d/1J_7wpXovbtMO1EP84cikXDzGpwWb-QxdlihMAiNg3XE/edit?usp=sharing)
 
@@ -28,6 +28,17 @@ The tutorial summarizes the workflow I follow when making figures for my papers 
   - Peter Fankhauser (2018), ["Graphic and Video Editing for Scientific Publications"](https://www.youtube.com/watch?v=MkbPeSmJGI0)
   - Alice Chen Kitterman (2021), ["Designing an effective graphic abstract"](https://www.science.org/doi/10.1126/scirobotics.abn1724)
   - Nataliya Rokhmanova, Andrew K. Schulz (2023), ["Explaining scientific findings through figures in publications, presentations, and posters "](https://github.com/nrokh/ScientificFigures)
+- **Presentation tools**
+  - [Projecteur](https://github.com/jahnf/Projecteur): To spotlight parts of your screen
+    - Installation instructions: [link](https://jahnf.github.io/Projecteur/doc/LinuxRepositories.html)
+      - Ubuntu 20.04
+      - `curl -1sLf 'https://dl.cloudsmith.io/public/jahnf/projecteur-develop/cfg/gpg/gpg.544E6934C0570750.key' | sudo gpg --dearmor -o /usr/share/keyrings/jahnf-projecteur-develop-archive-keyring.gpg`
+      - `curl -1sLf 'https://dl.cloudsmith.io/public/jahnf/projecteur-develop/cfg/setup/config.deb.txt?distro=ubuntu&codename=bionic' > /etc/apt/sources.list.d/jahnf-projecteur-develop.list`
+      - `sudo apt update`
+      - `sudo apt install projecteur`
+      - Add Ubuntu shortcut to: `projecteur -c spot=toggle`
+  - [Key-mon](https://github.com/scottkirkwood/key-mon): To show your mouse actions on the screen
+  - [ScreenKey](https://www.omgubuntu.co.uk/screenkey-show-key-presses-screen-ubuntu): It shows what keyboard keys you are pressing (full sequence, but not mouse)
 
 ## License
 
