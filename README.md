@@ -20,6 +20,7 @@ The tutorial summarizes the workflow I follow when making figures for my papers 
 - **Vector graphics**
   - [Inkscape](https://inkscape.org/release/inkscape-1.3/gnulinux/ubuntu/ppa/dl/): Wonderful vector graphics software
   - [Bezier Game](https://bezier.method.ac): Online game to learn to use the Pen tool in Inkscape (and other vector graphics software)
+  - [Map Chart](https://www.mapchart.net/europe.html): To generate colored maps with highlighted countries
 - **Colors**
   - Claus O. Wilke (2019), ["Fundamentals of Data Visualization"](https://clauswilke.com/dataviz/index.html)
   - [DaltonLens](https://daltonlens.org/colorblindness-simulator): Color blindness simulator
