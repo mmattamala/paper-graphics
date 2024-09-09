@@ -25,6 +25,7 @@ The tutorial summarizes the workflow I follow when making figures for my papers 
   - Claus O. Wilke (2019), ["Fundamentals of Data Visualization"](https://clauswilke.com/dataviz/index.html)
   - [DaltonLens](https://daltonlens.org/colorblindness-simulator): Color blindness simulator
   - David Nichols, ["Coloring for Colorblindness"](https://davidmathlogic.com/colorblind/)
+  - [Tint and Shade Generator](https://maketintsandshades.com/): To make tint (lighter) or shade (darker) variations of a set of hexadecimal colors
 - **Other tutorials on designing scientific figures**
   - Peter Fankhauser (2018), ["Graphic and Video Editing for Scientific Publications"](https://www.youtube.com/watch?v=MkbPeSmJGI0)
   - Alice Chen Kitterman (2021), ["Designing an effective graphic abstract"](https://www.science.org/doi/10.1126/scirobotics.abn1724)
