@@ -31,6 +31,7 @@ The tutorial summarizes the workflow I follow when making figures for my papers 
   - Alice Chen Kitterman (2021), ["Designing an effective graphic abstract"](https://www.science.org/doi/10.1126/scirobotics.abn1724)
   - Nataliya Rokhmanova, Andrew K. Schulz (2023), ["Explaining scientific findings through figures in publications, presentations, and posters "](https://github.com/nrokh/ScientificFigures)
   - Novartis Institutes for BioMedical Research, ["Exploratory Graphics - Guiding Principles Cheat Sheet"](https://opensource.nibr.com/xgx/Resources/Graphics_Principles_Cheat_Sheet_v1.1.pdf)
+  - Nice reporitory with styles for scientific plots: [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots)
 - **Presentation tools**
   - [Projecteur](https://github.com/jahnf/Projecteur): To spotlight parts of your screen
     - Installation instructions: [link](https://jahnf.github.io/Projecteur/doc/LinuxRepositories.html)
