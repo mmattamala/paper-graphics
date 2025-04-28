@@ -27,6 +27,9 @@ The tutorial summarizes the workflow I follow when making figures for my papers 
   - [DaltonLens](https://daltonlens.org/colorblindness-simulator): Color blindness simulator
   - David Nichols, ["Coloring for Colorblindness"](https://davidmathlogic.com/colorblind/)
   - [Tint and Shade Generator](https://maketintsandshades.com/): To make tint (lighter) or shade (darker) variations of a set of hexadecimal colors
+- **Other technical resources**
+  - [PSL Explore Tutorials on Graphics](https://explore.psl.eu/en/tools-and-training/tutorials)
+  - Marco Verna, ["Resolution, PPI and DPI for photographers"](https://marcoverna.studio/blog/2020/5/25/ppi-dpi-and-resolution-for-photographers)
 - **Other tutorials on designing scientific figures**
   - Peter Fankhauser (2018), ["Graphic and Video Editing for Scientific Publications"](https://www.youtube.com/watch?v=MkbPeSmJGI0)
   - Alice Chen Kitterman (2021), ["Designing an effective graphic abstract"](https://www.science.org/doi/10.1126/scirobotics.abn1724)
