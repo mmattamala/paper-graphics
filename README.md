@@ -2,7 +2,7 @@
 
 Resources to help you make scientific figures for your robotics papers.
 
-It mainly stores the assets used in a tutorial I prepared in 2023, and updated in 2025, which is constantly being updated.
+It mainly stores the assets used in a tutorial I prepared in 2023, and updated in 2025, which is constantly being improved.
 
 > Matias Mattamala (2025), "Effective Design of Graphics for (Robotics) Research" [Online (Google Slides)](https://docs.google.com/presentation/d/1BLjCs8lvLsQP_xq5W0iLZfvWgdcwPDPlXB1read0zII/edit?usp=sharing)
 
