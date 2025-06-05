@@ -27,6 +27,7 @@ The tutorial summarizes the workflow I follow when making figures for my papers 
   - [DaltonLens](https://daltonlens.org/colorblindness-simulator): Color blindness simulator
   - David Nichols, ["Coloring for Colorblindness"](https://davidmathlogic.com/colorblind/)
   - [Tint and Shade Generator](https://maketintsandshades.com/): To make tint (lighter) or shade (darker) variations of a set of hexadecimal colors
+  - [Scientific Colour Maps](https://www.fabiocrameri.ch/colourmaps/)
 - **Other technical resources**
   - [PSL Explore Tutorials on Graphics](https://explore.psl.eu/en/tools-and-training/tutorials)
   - Marco Verna, ["Resolution, PPI and DPI for photographers"](https://marcoverna.studio/blog/2020/5/25/ppi-dpi-and-resolution-for-photographers)
