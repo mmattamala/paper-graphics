@@ -49,7 +49,9 @@ The tutorial summarizes the workflow I follow when making figures for my papers 
   - [ScreenPointer](https://apps.apple.com/gb/app/screenpointer/id1368204906?mt=12): Same as Projecteur, but for Mac
   - [Key-mon](https://github.com/scottkirkwood/key-mon): To show your mouse actions on the screen
   - [ScreenKey](https://www.omgubuntu.co.uk/screenkey-show-key-presses-screen-ubuntu): It shows what keyboard keys you are pressing (full sequence, but not mouse)
-  - [PDFPC](https://pdfpc.github.io): Software to present PDFs as slides, with pointer and annotation features
+  - [pdfpc](https://pdfpc.github.io): Software to present PDFs as slides, with pointer and annotation features (Thanks to Santeri Heiskanen for the link)
+- **LaTex**
+  - [LatexIt](https://www.chachatelier.fr/latexit/): To seamlessly copy LaTex-rendered equations into Keynote (Thanks to Joao Carvahlo for the pointer)
 
 ## License
 
