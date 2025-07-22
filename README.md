@@ -46,6 +46,7 @@ The tutorial summarizes the workflow I follow when making figures for my papers 
       - `sudo apt update`
       - `sudo apt install projecteur`
       - Add Ubuntu shortcut to: `projecteur -c spot=toggle`
+  - [ScreenPointer](https://apps.apple.com/gb/app/screenpointer/id1368204906?mt=12): Same as Projecteur, but for Mac
   - [Key-mon](https://github.com/scottkirkwood/key-mon): To show your mouse actions on the screen
   - [ScreenKey](https://www.omgubuntu.co.uk/screenkey-show-key-presses-screen-ubuntu): It shows what keyboard keys you are pressing (full sequence, but not mouse)
 
