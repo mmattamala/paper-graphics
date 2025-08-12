@@ -51,7 +51,7 @@ The tutorial summarizes the workflow I follow when making figures for my papers 
   - [ScreenKey](https://www.omgubuntu.co.uk/screenkey-show-key-presses-screen-ubuntu): It shows what keyboard keys you are pressing (full sequence, but not mouse)
   - [pdfpc](https://pdfpc.github.io): Software to present PDFs as slides, with pointer and annotation features (Thanks to Santeri Heiskanen for the link)
 - **LaTex**
-  - [LatexIt](https://www.chachatelier.fr/latexit/): To seamlessly copy LaTex-rendered equations into Keynote (Thanks to Joao Carvahlo for the pointer)
+  - [LatexIt](https://www.chachatelier.fr/latexit/): To seamlessly copy LaTex-rendered equations into Keynote (Thanks to Joao Carvalho for the pointer)
 
 ## License
 
