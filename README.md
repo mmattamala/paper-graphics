@@ -17,6 +17,7 @@ The tutorial summarizes the workflow I follow when making figures for my papers 
   - [Google Drawings](https://docs.google.com/drawings/): Easy diagrams from your Google account
   - [draw.io](https://draw.io): Easy to use though more advanced flowchart software
   - [GIMP](https://www.gimp.org/): Brilliant bitmap manipulation software
+  - [Science Plots](https://github.com/garrettj403/SciencePlots): Python package to make science-styled plots
 - **Vector graphics**
   - [Inkscape](https://inkscape.org/release/inkscape-1.3/gnulinux/ubuntu/ppa/dl/): Wonderful vector graphics software
   - [Bezier Game](https://bezier.method.ac): Online game to learn to use the Pen tool in Inkscape (and other vector graphics software)
