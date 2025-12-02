@@ -2,9 +2,9 @@
 
 Resources to help you make scientific figures for your robotics papers.
 
-It mainly stores the assets used in a tutorial I prepared in 2023, and updated in 2025, which is constantly being updated.
+It mainly stores the assets used in a tutorial I prepared in 2023, and updated in 2025, which is constantly being improved.
 
-> Matias Mattamala (2025), "Effective Design of Graphics for (Robotics) Research" [Online (Google Slides)](https://docs.google.com/presentation/d/1BLjCs8lvLsQP_xq5W0iLZfvWgdcwPDPlXB1read0zII/edit?usp=sharing)
+> Matias Mattamala (2025), "Effective Design of Graphics for (Robotics) Research" [Online (Google Slides)](https://docs.google.com/presentation/d/161ckSI_LVptLwFSiT3hCMhK-5gGf_vDdwmTOq54YRF8/edit?slide=id.p#slide=id.p)
 
 The tutorial summarizes the workflow I follow when making figures for my papers and other advice. The goal was on "low budget" solutions, using open-source or other free-to-use software tools instead of expensive professional software.
 
@@ -17,6 +17,7 @@ The tutorial summarizes the workflow I follow when making figures for my papers 
   - [Google Drawings](https://docs.google.com/drawings/): Easy diagrams from your Google account
   - [draw.io](https://draw.io): Easy to use though more advanced flowchart software
   - [GIMP](https://www.gimp.org/): Brilliant bitmap manipulation software
+  - [Science Plots](https://github.com/garrettj403/SciencePlots): Python package to make science-styled plots
 - **Vector graphics**
   - [Inkscape](https://inkscape.org/release/inkscape-1.3/gnulinux/ubuntu/ppa/dl/): Wonderful vector graphics software
   - [Bezier Game](https://bezier.method.ac): Online game to learn to use the Pen tool in Inkscape (and other vector graphics software)
@@ -27,6 +28,7 @@ The tutorial summarizes the workflow I follow when making figures for my papers 
   - [DaltonLens](https://daltonlens.org/colorblindness-simulator): Color blindness simulator
   - David Nichols, ["Coloring for Colorblindness"](https://davidmathlogic.com/colorblind/)
   - [Tint and Shade Generator](https://maketintsandshades.com/): To make tint (lighter) or shade (darker) variations of a set of hexadecimal colors
+  - [Scientific Colour Maps](https://www.fabiocrameri.ch/colourmaps/)
 - **Other technical resources**
   - [PSL Explore Tutorials on Graphics](https://explore.psl.eu/en/tools-and-training/tutorials)
   - Marco Verna, ["Resolution, PPI and DPI for photographers"](https://marcoverna.studio/blog/2020/5/25/ppi-dpi-and-resolution-for-photographers)
@@ -45,8 +47,12 @@ The tutorial summarizes the workflow I follow when making figures for my papers 
       - `sudo apt update`
       - `sudo apt install projecteur`
       - Add Ubuntu shortcut to: `projecteur -c spot=toggle`
+  - [ScreenPointer](https://apps.apple.com/gb/app/screenpointer/id1368204906?mt=12): Same as Projecteur, but for Mac
   - [Key-mon](https://github.com/scottkirkwood/key-mon): To show your mouse actions on the screen
   - [ScreenKey](https://www.omgubuntu.co.uk/screenkey-show-key-presses-screen-ubuntu): It shows what keyboard keys you are pressing (full sequence, but not mouse)
+  - [pdfpc](https://pdfpc.github.io): Software to present PDFs as slides, with pointer and annotation features (Thanks to Santeri Heiskanen for the link)
+- **LaTex**
+  - [LatexIt](https://www.chachatelier.fr/latexit/): To seamlessly copy LaTex-rendered equations into Keynote (Thanks to Joao Carvalho for the pointer)
 
 ## License
 
