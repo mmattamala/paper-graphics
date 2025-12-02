@@ -1,0 +1,15 @@
+[workspace]
+authors = ["Matias Mattamala <matias.mattamala@ed.ac.uk>"]
+channels = ["conda-forge"]
+name = "paper-graphics"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.12.*"
+matplotlib = ">=3.10.8,<4"
+seaborn = ">=0.13.2,<0.14"
+numpy = ">=2.3.4,<3"
+jupyter = ">=1.1.1,<2"

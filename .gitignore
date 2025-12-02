@@ -314,3 +314,14 @@ TSWLatexianTemp*
 
 *.DS_Store
 .vscode/
+# pixi environments
+.pixi
+*.egg-info
+
+# ignore heavy inkscape files
+inkscape/
+!inkscape/.placeholder
+
+# Ignore other files generated during the tutorial
+matplotlib/example.pdf
+matplotlib/example.png
