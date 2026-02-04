@@ -12,6 +12,9 @@ The tutorial summarizes the workflow I follow when making figures for my papers 
 
 (This section will be extended in the future)
 
+- **Fonts**
+  - [Computer Moder Unicode](https://sourceforge.net/projects/cm-unicode/files/): The font used by LaTeX
+  - [Roboto](https://fonts.google.com/specimen/Roboto): Nice sans serif font
 - **Software tools**
   - [Inkscape](https://inkscape.org/release/inkscape-1.3/gnulinux/ubuntu/ppa/dl/): Wonderful vector graphics software
   - [Google Drawings](https://docs.google.com/drawings/): Easy diagrams from your Google account
