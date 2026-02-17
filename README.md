@@ -8,6 +8,19 @@ It mainly stores the assets used in a tutorial I prepared in 2023, and updated i
 
 The tutorial summarizes the workflow I follow when making figures for my papers and other advice. The goal was on "low budget" solutions, using open-source or other free-to-use software tools instead of expensive professional software.
 
+## Installation
+To run the jupyter notebooks, just use [Pixi](https://pixi.prefix.dev) in this folder:
+
+```sh
+# Install pixi
+curl -fsSL https://pixi.sh/install.sh | sh
+
+# Install the environment
+pixi install
+pixi shell
+jupyter notebook matplotlib/example.ipynb
+```
+
 ## Other resources
 
 (This section will be extended in the future)
