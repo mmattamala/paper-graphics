@@ -54,6 +54,10 @@ jupyter notebook matplotlib/example.ipynb
   - Nataliya Rokhmanova, Andrew K. Schulz (2023), ["Explaining scientific findings through figures in publications, presentations, and posters "](https://github.com/nrokh/ScientificFigures)
   - Novartis Institutes for BioMedical Research, ["Exploratory Graphics - Guiding Principles Cheat Sheet"](https://opensource.nibr.com/xgx/Resources/Graphics_Principles_Cheat_Sheet_v1.1.pdf)
   - Nice reporitory with styles for scientific plots: [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots)
+- **Accessibility**
+  - How to make Dyslexia Friendly Documents [Dyslexia Scotland](https://dyslexiascotland.org.uk/dyslexia-friendly-typed-formats/)
+  - [DaltonLens](https://daltonlens.org/colorblindness-simulator): Color blindness simulator
+  - David Nichols, ["Coloring for Colorblindness"](https://davidmathlogic.com/colorblind/)
 - **Presentation tools**
   - [Projecteur](https://github.com/jahnf/Projecteur): To spotlight parts of your screen
     - Installation instructions: [link](https://jahnf.github.io/Projecteur/doc/LinuxRepositories.html)
