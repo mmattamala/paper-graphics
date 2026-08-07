@@ -4,7 +4,7 @@ Resources to help you make scientific figures for your robotics papers.
 
 It mainly stores the assets used in a tutorial I prepared in 2023, and updated in 2025, which is constantly being improved.
 
-> Matias Mattamala (2025), "Effective Design of Graphics for (Robotics) Research" [Online (Google Slides)](https://docs.google.com/presentation/d/161ckSI_LVptLwFSiT3hCMhK-5gGf_vDdwmTOq54YRF8/edit?slide=id.p#slide=id.p)
+> Matias Mattamala (2025), "Effective Design of Graphics for (Robotics) Research" [Online (Google Slides)](https://docs.google.com/presentation/d/1g81VU7OsIb8Td7FiD1IiCEsB5CnTs0qVrA9Gd5-nNv0/edit?usp=sharing)
 
 The tutorial summarizes the workflow I follow when making figures for my papers and other advice. The goal was on "low budget" solutions, using open-source or other free-to-use software tools instead of expensive professional software.
 
