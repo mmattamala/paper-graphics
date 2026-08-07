@@ -1,0 +1,49 @@
+% Note: The settings for the tree are defined in root.tex
+
+% Note: Be careful when using underscores, the 'forest' package does not like them
+% so ensure you write 'my_folder' as 'my\_folder'
+
+\begin{footnotesize}
+\begin{forest}
+  pic dir tree,
+  pic root,
+  for tree={ % folder icons by default; override using file for file icons
+    directory,
+    fit=band,
+    l sep=5mm,
+    s sep=0mm,
+  },
+  [dataset
+    [location\_001
+      [sequence\_001
+        [rgb
+          [frame\_0000.png, file]
+          [$...$, file]
+        ]
+        [depth
+          [frame\_0000.exr, file]
+          [$...$, file]
+        ]
+        [point\_clouds
+          [frame\_0000.ply, file]
+          [$...$, file]
+        ]
+        [calibration
+          [camera\_intrinsics.yaml, file]
+        ]
+        [metadata
+          [trajectory.csv, file]
+          [ground\_truth.csv, file]
+        ]
+      ]
+      [sequence\_002
+        [$...$, file]
+      ]
+    ]
+    [location\_002
+      [$...$]
+    ]
+    [$...$]
+  ]
+\end{forest}
+\end{footnotesize}

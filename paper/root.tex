@@ -54,6 +54,61 @@
 \usepackage{caption}            % To create captions for the hero figure
 \captionsetup[figure]{font=footnotesize,labelfont=footnotesize} % this is to make them comply with the IEEE template
  
+% Folder structure
+% From https://tex.stackexchange.com/a/270761
+% https://tex.stackexchange.com/q/641153
+
+\usepackage{tikz} % for drawings
+\usepackage{pgf} % for calculating the values for gradient
+\usepackage[edges]{forest} % for directory tree
+
+\definecolor{folderbg}{RGB}{124,166,198}
+\definecolor{folderborder}{RGB}{110,144,169}
+
+\newlength\Size
+\setlength\Size{3pt}
+\tikzset{%
+  folder/.pic={%
+    \filldraw [draw=folderborder, top color=folderbg!50, bottom color=folderbg] (-1.05*\Size,0.2\Size+3.5pt) rectangle ++(.75*\Size,-0.2\Size-2pt);
+    \filldraw [draw=folderborder, top color=folderbg!50, bottom color=folderbg] (-1.15*\Size,-\Size) rectangle (1.15*\Size,\Size);
+  },
+  file/.pic={%
+    \filldraw [draw=folderborder, top color=folderbg!5, bottom color=folderbg!10] (-\Size,.4*\Size+2pt) coordinate (a) |- (\Size,-1.2*\Size) coordinate (b) -- ++(0,1.6*\Size) coordinate (c) -- ++(-2pt,2pt) coordinate (d) -- cycle (d) |- (c) ;
+  },
+}
+\forestset{%
+  declare autowrapped toks={pic me}{},
+  declare boolean register={pic root},
+  pic root=0,
+  pic dir tree/.style={%
+    for tree={%
+      folder,
+      font=\ttfamily,
+      grow'=0,
+    },
+    before typesetting nodes={%
+      for tree={%
+        edge label+/.option={pic me},
+      },
+      if pic root={
+        tikz+={
+          \pic at ([xshift=\Size].west) {folder};
+        },
+        align={l}
+      }{},
+    },
+  },
+  pic me set/.code n args=2{%
+    \forestset{%
+      #1/.style={%
+        inner xsep=2\Size,
+        pic me={pic {#2}},
+      }
+    }
+  },
+  pic me set={directory}{folder},
+  pic me set={file}{file},
+}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Document begins
@@ -239,6 +294,18 @@ I have also added fake text, just to distribute them better across the document 
     \includegraphics[width=\columnwidth]{figs/distance_between_interventions_distribution.pdf}
     \caption{\textbf{Single column Results Figure.} This is set to appear at the bottom.}
     \label{fig:double-column}
+\end{figure}
+
+{\color{gray}{\lipsum[1-3]}}
+
+\subsection{Directory Tree}
+{\color{gray}{\lipsum[1]}}
+
+\begin{figure}[t]
+    \centering
+    \input{directory/tree}
+    \caption{\textbf{Directory Tree Example.} This shows how to render a directory tree, used for dataset papers for example.}
+    \label{fig:dir-tree}
 \end{figure}
 
 {\color{gray}{\lipsum[1-3]}}
