@@ -42,12 +42,14 @@ jupyter notebook matplotlib/example.ipynb
 - [Map Chart](https://www.mapchart.net/europe.html): To generate colored maps with highlighted countries
 - [Latex Drawing](https://github.com/xinychen/awesome-latex-drawing): Examples on how to design figures with TikZ
 
-#### Colors
+#### Colours
 - Claus O. Wilke (2019), ["Fundamentals of Data Visualization"](https://clauswilke.com/dataviz/index.html)
 - [DaltonLens](https://daltonlens.org/colorblindness-simulator): Color blindness simulator
 - David Nichols, ["Coloring for Colorblindness"](https://davidmathlogic.com/colorblind/)
 - [Tint and Shade Generator](https://maketintsandshades.com/): To make tint (lighter) or shade (darker) variations of a set of hexadecimal colors
 - [Scientific Colour Maps](https://www.fabiocrameri.ch/colourmaps/)
+- Stephen J. Royle, [How-to-make-microscopy-images-that-are-color-blind
+](https://journals.biologists.com/jcs/article/139/21/jcs265371/373410/How-to-make-microscopy-images-that-are-color-blind)
 
 #### Other technical resources
 - [PSL Explore Tutorials on Graphics](https://explore.psl.eu/en/tools-and-training/tutorials)
