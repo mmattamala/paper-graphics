@@ -85,6 +85,15 @@ jupyter notebook matplotlib/example.ipynb
 - [LatexIt](https://www.chachatelier.fr/latexit/): To seamlessly copy LaTex-rendered equations into Keynote (Thanks to Joao Carvalho for the pointer)
 
 ## License
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+
 
 All the images in assets are designed or photographed by me, except from:
 
